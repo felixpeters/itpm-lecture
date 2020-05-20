@@ -12,3 +12,8 @@ Complete the following steps in order to run the code:
   - Open a new terminal and run `https://github.com/felixpeters/itpm-lecture.git`
 
 Congrats, you can now run the code examples inside VS Code!
+
+## Example 1: Hello world!
+
+In your terminal inside VS Code, run `node app.js`. You should see the following output: `Server running at http://127.0.0.1:3000/`
+Now, navigate to this URL inside your preferred web browser. `Hello World` should be printed on your screen.
