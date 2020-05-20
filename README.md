@@ -9,15 +9,18 @@ Complete the following steps in order to run the code:
 - Install [VS Code](https://code.visualstudio.com/Download) as your IDE
 - Clone this repository using one of the two options below:
   - Use the "Clone repository" option inside VS Code
-  - Open a new terminal and run `https://github.com/felixpeters/itpm-lecture.git`
+  - Open a new terminal and run `git clone https://github.com/felixpeters/itpm-lecture.git`
+- Inside the repository, run `npm install` to install all dependencies
 
 Congrats, you can now run the code examples inside VS Code!
 
 ## Example 1: Hello world!
 
-In your terminal inside VS Code, run `node app.js`. You should see the following output: `Server running at http://127.0.0.1:3000/`
+In your terminal inside VS Code, run `node app.js`. You should see the following output: `Server running at http://127.0.0.1:3000/`.
 Now, navigate to this URL inside your preferred web browser. `Hello World` should be printed on your screen.
 
 ## Example 2: Grade calculator
 
-In your terminal inside VS Code, run `npm init` and use the following value
+In your terminal inside VS Code, run `npm start`. You should see the following output: `Grade calculator app listening at http://localhost:3000/`.
+Now, navigate to this URL inside your preferred web browser and test the grade calculator.
+Run unit tests for the grade calculator running the command `npm test`.
