@@ -19,7 +19,7 @@ Congrats, you can now run the code examples inside VS Code!
 
 ## Example 1: Hello world!
 
-In your terminal inside VS Code, run `node app.js`. You should see the following output: `Server running at http://127.0.0.1:3000/`.
+In your terminal inside VS Code, run `node hello.js`. You should see the following output: `Server running at http://127.0.0.1:3000/`.
 Now, navigate to this URL inside your preferred web browser. `Hello World` should be printed on your screen.
 
 ## Example 2: Grade calculator
